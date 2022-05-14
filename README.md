@@ -2,9 +2,9 @@
 
 Na reunião inicial com as pessoas responsáveis pela área de vendas da empresa, foi explicada a importância de se reduzir a Taxa de Evasão de Clientes, conhecido como Churn Rate. Basicamente, o Churn Rate indica o quanto a empresa perdeu de receita ou clientes em um período de tempo.
 
-O presente projeto apresentará divisão por semanas afim de organizar o que foi desenvolvido em cada uma.
-
 Dados: https://github.com/sthemonica/alura-voz/blob/main/Dados/Telco-Customer-Churn.json
+
+O presente projeto apresentará divisão por semanas afim de organizar o que foi desenvolvido em cada uma.
 
 ## Semana 1
 - [x] Entender quais informações o conjunto de dados possui
