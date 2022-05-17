@@ -1,5 +1,9 @@
 # Alura Voz (Alura Challenge Data Science)
 
+<center>
+  <img src="https://i.imgur.com/jn7km8o.png">
+</center>
+
 Na reunião inicial com as pessoas responsáveis pela área de vendas da empresa, foi explicada a importância de se reduzir a Taxa de Evasão de Clientes, conhecido como Churn Rate. Basicamente, o Churn Rate indica o quanto a empresa perdeu de receita ou clientes em um período de tempo.
 
 Dados: https://github.com/sthemonica/alura-voz/blob/main/Dados/Telco-Customer-Churn.json
