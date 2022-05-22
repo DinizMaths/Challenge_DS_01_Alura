@@ -20,7 +20,7 @@ O presente projeto apresentará divisão por semanas afim de organizar o que foi
 
 ## Semana 2
 - [x] Analisar a variável target: Churn
-- [ ] Visualizar a distribuição da variável target: Churn
+- [x] Visualizar a distribuição da variável target: Churn
 - [ ] Criar visualizações relevantes em relação ao Churn
 - [ ] Analisar a correlação das variáveis
 - [ ] Testar diferentes tipos de gráficos
