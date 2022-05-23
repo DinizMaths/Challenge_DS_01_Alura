@@ -24,5 +24,14 @@ O presente projeto apresentará divisão por semanas afim de organizar o que foi
 - [x] Criar visualizações relevantes em relação ao Churn
 - [x] Analisar a correlação das variáveis
 - [x] Testar diferentes tipos de gráficos
+
 ## Semana 3
+- [ ] Verificar se a variável target está balanceada
+- [ ] Verificar qual o melhor tipo de balanceamento com esses dados
+- [ ] Aplicar encoding nos seus dados
+
 ## Semana 4
+- [ ] Criar dois ou mais modelos de Machine Learning
+- [ ] Avaliar cada modelo utilizando métricas de ML
+- [ ] Escolher o melhor modelo
+- [ ] Otimizar o melhor modelo!
