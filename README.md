@@ -29,9 +29,15 @@ O presente projeto apresentará divisão por semanas afim de organizar o que foi
 - [ ] Verificar se a variável target está balanceada
 - [ ] Verificar qual o melhor tipo de balanceamento com esses dados
 - [ ] Aplicar encoding nos seus dados
-
-## Semana 4
 - [ ] Criar dois ou mais modelos de Machine Learning
 - [ ] Avaliar cada modelo utilizando métricas de ML
 - [ ] Escolher o melhor modelo
 - [ ] Otimizar o melhor modelo!
+
+## Semana 4
+- [ ] Criar um README para o projeto
+- [ ] Separar os notebooks de cada semana em pastas
+- [ ] Criar um storytelling contando tudo que foi desenvolvido
+- [ ] Identificar suas conclusões
+- [ ] Aperfeiçoar o projeto
+- [ ] Escrever um artigo no Medium
